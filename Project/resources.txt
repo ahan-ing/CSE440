@@ -1,1 +1,12 @@
 
+The dataset used: 'train_all_tasks.csv' is a CSV file containing sexist and non-sexist texts collected from various online platforms.
+The dataset was taken from a paper named Explainable Detection of Online Sexism (Kirk
+et al., 2023). The tasks are from: https://codalab.lisn.upsaclay.fr/competitions/7124 
+
+
+The drive link for the GloVE Embedding pretrained word vector file used:
+https://drive.google.com/file/d/1SdjOPYnimOHaYa9idShQiYtiatF3t4gt/view?usp=drive_link
+
+This file has been collected from: https://nlp.stanford.edu/projects/glove/
+Unzip the file glove.6B.100d.zip. It will contain the actual data file in .txt format. This
+is file containing Pre-trained word vectors by GloVe (6B tokens, 400K vocab, uncased, 100d) 
