@@ -1,6 +1,7 @@
 
-The dataset used: 'train_all_tasks.csv' is a CSV file containing sexist and non-sexist texts collected from various online platforms.
-The dataset was taken from a paper named Explainable Detection of Online Sexism (Kirk
+The dataset used: 'train_all_tasks.csv' is a CSV file containing labeled sexist and non-sexist 
+data targeted towards women acquired from both Reddit and Gab. The dataset was taken from a paper 
+named SemEval-2023 Task 10: Explainable Detection of Online Sexism (Kirk
 et al., 2023). The tasks are from: https://codalab.lisn.upsaclay.fr/competitions/7124 
 
 
